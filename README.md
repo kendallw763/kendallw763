@@ -1,4 +1,4 @@
-## Hi there 👋
+## :snowboarder: Kendall White 
 
 <!--
 **kendallw763/kendallw763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
