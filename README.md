@@ -1,4 +1,4 @@
-# 🇺🇸 Kendall White
+# 🇺🇸 Kendall White (U.S Citizen)
 
 ## ⚖️ Technological Artisan (Student/Veteran/Engineer)
 
