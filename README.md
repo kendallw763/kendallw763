@@ -1,4 +1,4 @@
-# 🏂 Kendall White
+# 🪖 Kendall White
 
 ## 🤖 Technological Artisan (Student/Veteran/Engineer)
 
