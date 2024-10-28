@@ -3,7 +3,6 @@
 ## 🦅 🌎 ⚓ Technological Artisan (Veteran/Engineer) 
 
 ## 🧰 Tools & Tech
-
 ![image](https://github.com/user-attachments/assets/a01611ed-fa35-469b-a539-66a023fb0aa9)
 ![image](https://github.com/user-attachments/assets/936f2853-d93e-4b7f-a203-e1e695cacfbc)
 ![image](https://github.com/user-attachments/assets/634546e9-8329-4dd5-944b-145fa1a95860)
