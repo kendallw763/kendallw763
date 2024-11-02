@@ -3,7 +3,7 @@
 ## 🦅 🌎 ⚓ Technological Artisan
 
 ## Operating systems
-![image](https://github.com/user-attachments/assets/15177d31-1736-4ef2-bde2-76dab5ea4f0f) ]
+![image](https://github.com/user-attachments/assets/15177d31-1736-4ef2-bde2-76dab5ea4f0fstyle:width:8rem;)
 
 
 
