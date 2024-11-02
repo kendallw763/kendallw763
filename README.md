@@ -17,7 +17,6 @@
 ![image](https://github.com/user-attachments/assets/2df3652e-787b-42ec-b587-5934ab5df670)
 ![image](https://github.com/user-attachments/assets/78cc04eb-1bee-4a71-b5e2-94bd3e8da87d)
 
-<i class="fa-brands fa-html5"></i>
 
 
 
