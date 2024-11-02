@@ -21,7 +21,6 @@
 ![image](https://github.com/user-attachments/assets/ca42a8e6-9d13-4ca0-928b-a6271bbfc54e)
 
 
-
 ## Languages 
 ![image](https://github.com/user-attachments/assets/fa0d1d08-3ade-4ef8-ac19-707d6ed49097)
 ![image](https://github.com/user-attachments/assets/8ac041b1-e750-4c42-9aef-988c7a9ff292)
@@ -29,6 +28,7 @@
 ![image](https://github.com/user-attachments/assets/2df3652e-787b-42ec-b587-5934ab5df670)
 
 ## Database
+![image](https://github.com/user-attachments/assets/78cc04eb-1bee-4a71-b5e2-94bd3e8da87d)
 
 
 
