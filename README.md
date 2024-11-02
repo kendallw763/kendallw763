@@ -1,6 +1,5 @@
-# ⚖️ Kendall White ⚖️
+# 🦅Kendall White
 
-## 🦅 🌎 ⚓ Technological Artisan
 ## Skills/Technologies
 ![image](https://github.com/user-attachments/assets/08335f39-f83f-4865-baf8-87efa82ddae4)
 ![image](https://github.com/user-attachments/assets/6e5d0b82-f169-4fe6-a833-d6ccb4c865db)
