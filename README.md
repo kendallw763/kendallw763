@@ -3,11 +3,11 @@
 ## 🦅 🌎 ⚓ Technological Artisan (Veteran/Engineer) 
 
 ## Operating systems
-![image](https://github.com/user-attachments/assets/15177d31-1736-4ef2-bde2-76dab5ea4f0f)
+![image](https://github.com/user-attachments/assets/15177d31-1736-4ef2-bde2-76dab5ea4f0fstyle= "width: 2px")
 
 
 ## Tools
-![image](https://github.com/user-attachments/assets/722532e5-2a6a-4634-8976-fcd884215c69)
+![image](https://github.com/user-attachments/assets/722532e5-2a6a-4634-8976-fcd884215c69 )
 ![image](https://github.com/user-attachments/assets/16eefd91-c202-476a-8054-1627087005e2)
 ![image](https://github.com/user-attachments/assets/114e9d43-f9ca-4871-9d09-e8941e77b7cf)
 
