@@ -3,18 +3,13 @@
 ## 🦅 🌎 ⚓ Technological Artisan (Veteran/Engineer) 
 
 ## 🧰 Tools & Tech
-![image](https://github.com/user-attachments/assets/e12dec45-2938-46e2-a0c5-072db3120a5e)
-![image](https://github.com/user-attachments/assets/c5ebf645-7fc2-432b-9c48-cccc7b0b7fd6)
-![image](https://github.com/user-attachments/assets/6613e8e7-e65c-4a89-b992-80ce604736ff)
-![image](https://github.com/user-attachments/assets/7c6ec939-657b-4aaa-bd04-e2482f6b438f)
-![image](https://github.com/user-attachments/assets/acee8ce3-97c2-41b9-89d1-92766a26255b)
-![image](https://github.com/user-attachments/assets/e1dbb476-fbaf-4b43-bc30-efb96ad72c43)
-![image](https://github.com/user-attachments/assets/630c8788-a3ef-4411-868d-9529cc71fc52)
-![image](https://github.com/user-attachments/assets/8df0dd0c-046d-479a-b204-f924eece3296)
-![image](https://github.com/user-attachments/assets/1c4b25a2-e183-4d3e-b61f-bc2d86f004d6)
-![image](https://github.com/user-attachments/assets/09fa73c1-9b7f-4b7f-b6cf-fb4efee37598)
-![image](https://github.com/user-attachments/assets/10cc6ef8-d811-4e32-9e0e-81e83b9bc112)
-![image](https://github.com/user-attachments/assets/e8ab2c37-6bb8-4190-8e2d-578faf6dc9d8)
+
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M34.25 61.125L127.325 28L222.85 60.6125L207.412 183.7L127.325 228L48.5375 184.275L34.25 61.125Z" fill="#E23237"/>
+<path d="M222.85 60.6125L127.325 28V228L207.412 183.7L222.85 60.6125Z" fill="#B52E31"/>
+<path d="M127.469 51.375L69.4688 180.375L91.1125 179.937L102.8 150.788H154.675L167.375 180.163L188.012 180.6L127.469 51.375ZM127.612 92.7875L147.237 133.769H110.5L127.669 92.7875H127.612Z" fill="white"/>
+</svg>
 
 
 
