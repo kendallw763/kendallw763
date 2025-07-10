@@ -30,7 +30,7 @@ I bring that same intensity, strategy, and mindset of preparedness into every pr
 
 
 ### 📌 Current Focus
-- Mastering backend development with my favorite language, Java — with a sprinkle of React on the front end.
+- Mastering backend development with my favorite language, Java — with React on the front end.
 
 - Practicing Agile methodology and the Software Development Life Cycle (SDLC) to sharpen real-world development skills.
 
