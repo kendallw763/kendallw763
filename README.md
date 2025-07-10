@@ -35,5 +35,6 @@ I bring that same intensity, strategy, and mindset of preparedness into every pr
 - Practicing Agile methodology and the Software Development Life Cycle (SDLC) to sharpen real-world development skills.
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/kw763)
+
+Drop an email if you'd like
 - 📨 kendallw763@gmail.com
