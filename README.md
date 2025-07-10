@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kendall White
+# 👋 Hi,
 
 💬 About Me
 
