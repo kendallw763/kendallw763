@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Fresh CS Graduate - Software Engineer with a background in Military & Telecommunications.
+- 🎯 Fresh CS Graduate - Software Engineer with a background in Military & IT.
 - 😎 Two cats one German Shepherd.
 - 😂 Stand up comedy fenatic.
 
