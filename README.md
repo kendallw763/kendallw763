@@ -19,7 +19,7 @@
   </div>
 
 ## 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/yourname) • [Email](mailto:you@example.com)
+kendallw763@gmail.com
 
 ---
 
