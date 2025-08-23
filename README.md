@@ -4,8 +4,6 @@
 
 I'm a Marine Corps veteran and aspiring software engineer, transitioning into tech by combining the discipline and hands-on work ethic from my professional experience with a Computer Science degree.
 I never bought into the fear or doubt surrounding a career in tech—I set a goal, committed to it, and ran toward it with focus and determination.
-Outside of coding, I'm into weightlifting, God of War: Ragnarök, and watching MMA and Muay Thai bouts. I'm also a war movie enthusiast and the kind of guy who keeps a bugout bag ready—just in case.
-I bring that same intensity, strategy, and mindset of preparedness into every project I build—driven by purpose, precision, perseverance, and a genuine enthusiasm for learning and building.
 
 ### 🧰 Tech Stack
 
@@ -27,14 +25,6 @@ I bring that same intensity, strategy, and mindset of preparedness into every pr
   </div>
 
 
-
-
-### 📌 Current Focus
-- Mastering backend development with my favorite language, Java — with React on the front end.
-
-- Practicing Agile methodology and the Software Development Life Cycle (SDLC) to sharpen real-world development skills.
-
 ### 📫 Let's Connect
-
 Drop an email if you'd like
 - 📨 kendallw763@gmail.com
