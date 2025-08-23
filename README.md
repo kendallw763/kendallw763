@@ -1,9 +1,15 @@
 # 👋🏽 Hi!
 
-💬 About Me
+**Software Engineer | Builder of Scalable Apps**  
 
-I'm a Marine Corps veteran and aspiring software engineer, transitioning into tech by combining the discipline and hands-on work ethic from my professional experience with a Computer Science degree.
-I never bought into the fear or doubt surrounding a career in tech—I set a goal, committed to it, and ran toward it with focus and determination.
+---
+
+## 🚀 About Me
+- 🎯 Fresh CS Graduate - Software Engineer with a background in Military & Telecommunications.
+- 😎 Two cats one German Shepherd.
+- 😂 Stand up comedy fenatic.
+
+---
 
 ### 🧰 Tech Stack
 
@@ -12,8 +18,10 @@ I never bought into the fear or doubt surrounding a career in tech—I set a goa
 [![My Skills](https://skillicons.dev/icons?i=idea,java,python,maven,spring,flask,postgresql,postman,docker,html,css)](https://skillicons.dev)
   </div>
 
-  
- 
-### 📫 Let's Connect
-Drop an email if you'd like
-- 📨 kendallw763@gmail.com
+## 📫 Connect With Me
+[LinkedIn](https://linkedin.com/in/yourname) • [Email](mailto:you@example.com)
+
+---
+
+✨ *Always building, always learning. If you want to collaborate or just talk tech, let’s connect!*  
+
