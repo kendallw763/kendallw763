@@ -1,13 +1,13 @@
-# 👋🏽 Hi!
+# 👋🏽 Welcome!
 
-**Software Engineer | Builder of Scalable Apps**  
+**Software Engineer | Builder of Scalable solutions across various industires**  
 
 ---
 
 ## 🚀 About Me
-- 🎯 Fresh CS Graduate - Software Engineer with a background in Military & IT.
-- 😎 Two cats one German Shepherd.
-- 😂 Stand up comedy fenatic.
+- 🎯 Bachelors Degreee in CS  
+- 📖 Background in Military & IT (Telecom/Data Centers).
+- 🧠 Stays up-to-date with the latest technologies
 
 ---
 
