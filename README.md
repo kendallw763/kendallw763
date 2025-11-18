@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Bachelors Degreee in CS  
-- 📖 Background in Military & IT (Telecom/Data Centers).
-- 🧠 Stays up-to-date with the latest technologies
+- 🎯 Bachelors Degreee in CS.  
+- 📖 Background in Military.
+- 🧠 Stays up-to-date with the latest technologies.
 
 ---
 
