@@ -8,7 +8,7 @@
   </div>
 
 ## 📫 Connect With Me
-kendallw763@gmail.com
+kendall.white@snhu.edu
 
 
 
