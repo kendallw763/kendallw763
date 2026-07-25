@@ -4,7 +4,7 @@
 
 <div align="left">
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,python,django,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,python,django,postgresql,postman)](https://skillicons.dev)
   </div>
 
 ## 📫 Connect With Me
