@@ -1,8 +1,7 @@
 🌍 Virginia, USA
 
 🏗️ I build projects, break them down, and refine them into cleaner, stronger solutions.
-
-<br>
+<hr>
 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Python](https://skillicons.dev/icons?i=python)
