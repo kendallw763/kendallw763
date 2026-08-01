@@ -1,4 +1,8 @@
-I like building things, breaking them, and rebuilding them cleaner. I’m big on Python, dashboards, and anything that makes data easier to work with. Mostly I just enjoy learning, experimenting, and making cool stuff along the way.
+🌍 Virginia, USA
+
+🏗️ I build projects, break them down, and refine them into cleaner, stronger solutions.
+
+<br>
 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -9,6 +13,20 @@ I like building things, breaking them, and rebuilding them cleaner. I’m big on
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+
+<hr>
+
+# 🔍 Find Me
+
+[![Email](https://img.shields.io/badge/Email-%23ffffff?style=for-the-badge&logo=gmail&logoColor=red)](kendall.white@snhu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patrice-white-552855421)
+
+
+
 
 
 
