@@ -9,12 +9,10 @@
 ![Django](https://skillicons.dev/icons?i=django)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
-![Postman](https://skillicons.dev/icons?i=postman)
 
 
 <hr>
