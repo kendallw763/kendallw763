@@ -11,8 +11,9 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Docker](https://skillicons.dev/icons?i=docker)
+
 
 
 <hr>
