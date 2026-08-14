@@ -1,16 +1,10 @@
 # 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=flask" />
-  <img src="https://skillicons.dev/icons?i=django" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-   DuckDB
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=powershell" />
- 
+  <img src="https://skillicons.dev/icons?i=python,java,bash,powershell,postgres,mongodb" />
+  <img src="https://github.com/user-attachments/assets/9871cb92-afe8-4b7e-9411-92006deb2790" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" /> 
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
 </p>
-
 
 ---
 
