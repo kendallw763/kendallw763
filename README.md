@@ -14,7 +14,7 @@
 ---
 
 ## 👤 About Me
-Security & Network Cabling Technician turned data‑focused builder. I like clean scripting, backend logic, and workflows that make systems easier to understand and maintain.  
+I like clean scripting, backend logic, and workflows that make systems easier to understand and maintain.  
 Curious by nature, practical by habit.
 
 ---
