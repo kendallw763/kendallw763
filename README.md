@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,python,java,bash,powershell,postgres,mongodb" />
   <img src="https://github.com/user-attachments/assets/9871cb92-afe8-4b7e-9411-92006deb2790" height="45" />
   <img src="https://skillicons.dev/icons?i=docker" /> 
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
